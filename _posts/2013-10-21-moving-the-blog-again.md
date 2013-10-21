@@ -2,7 +2,7 @@
 layout: post
 title:  "Moving the Blog again"
 date:   2013-10-21 22:46:00
-categories: Work DotNet
+categories: Other
 ---
 
 Today I moved the Blog again. This time from [Dreamhost.com](http://dreamhost.com) to [GitHub.com](http://github.com).
