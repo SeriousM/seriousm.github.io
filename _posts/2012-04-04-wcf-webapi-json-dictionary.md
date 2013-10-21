@@ -9,25 +9,25 @@ Imagine you want to serialize a `Dictionary<string, string>` for wcf json output
 The JSON output would look like this:
 
 ```
-    [
-        {
-            Key: "key1",
-            Value: "value1"
-        },
-        {
-            Key: "key2",
-            Value: "value2"
-        }
-    ]
+[
+    {
+        Key: "key1",
+        Value: "value1"
+    },
+    {
+        Key: "key2",
+        Value: "value2"
+    }
+]
 ```
 
 But you want a correct JSON dictionary format:
 
 ```
-    {
-        "key1": "value1",
-        "key2": "value2"
-    }
+{
+    "key1": "value1",
+    "key2": "value2"
+}
 ```
 
 What happens here? Serializing a dictionary is the same as you would serialize a list of objects.
@@ -62,10 +62,10 @@ This behaviour is not bad or wrong but it is unsuitable for a JSON dictionary ou
 
 What we want is a "Key: Value" output like this:
 ```
-    {
-        "key1": "value1",
-        "key2": "value2"
-    }
+{
+    "key1": "value1",
+    "key2": "value2"
+}
 ```
 
 What you need to do is implementing a Dictionary-like object that inherits from ISerializable.
