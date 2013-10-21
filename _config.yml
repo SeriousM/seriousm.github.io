@@ -1,4 +1,6 @@
 name: root-project.org
+description: root-project.org blog
+url: http://root-project.org/
 timezone: Europe/Berlin
 markdown: redcarpet
 pygments: true
