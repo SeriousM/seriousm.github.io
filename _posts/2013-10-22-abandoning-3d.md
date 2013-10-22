@@ -8,13 +8,13 @@ categories: Work Blender3D
 Working with 3D was always a dream of me so I started using it back in 2011.
 Since then I had great experience while discovering 3D, Blender3D and the Community around it.
 I watched Tutorials from [BlenderCookie.com][2] and listened to the great voice of [Blender Guru's Andrew Price][3] ([G'Day][1]).
-I learned alot about 3D but also about myself.
+I learned a lot about 3D but also about myself.
 
-_I learned that I can do what ever I want if I really want to and I can achieve great things._
+_I learned that I can do whatever I want if I really want to and I can achieve great things._
 
 But now the time passed by and I lost the focus on 3D.
 First, time's not cheap, especially when you have a family.
-Second, there was no real project to work on beside of my self education project.
+Second, there was no real project to work on beside of myself education project.
 
 Thanks to the [Blender Community][4], thanks to [Blender Cookie][2], [Blender Guru][3] and [Blender Nerd][5] for the really good stuff you provided.
 
