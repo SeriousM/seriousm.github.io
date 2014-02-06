@@ -1,10 +1,4 @@
-name: root-project.org
-description: root-project.org blog
-url: http://root-project.org
-timezone: Europe/Berlin
 markdown: redcarpet
-pygments: true
-permalink: /:year/:month/:day/:categories/:title/
 redcarpet:
   extensions:
     - hard_wrap
@@ -12,3 +6,17 @@ redcarpet:
     - autolink
     - strikethrough
     - fenced_code_blocks
+pygments: true
+permalink: /:year/:month/:day/:categories/:title/
+exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
+title : Bernhard Millauer
+production_url : http://root-project.org
+description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Bernhard Millauer."
+disqus_shortname: root-project
+analytics: UA-37332361-1
+timezone: Europe/Berlin
+author :
+  name : Bernhard Millauer
+  github : SeriousM
+  twitter : SeriousMasta
+  email: bernhard.millauer@gmail.com
