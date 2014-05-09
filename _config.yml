@@ -6,6 +6,8 @@ redcarpet:
     - autolink
     - strikethrough
     - fenced_code_blocks
+gems:
+  - jekyll-sitemap
 pygments: true
 permalink: /:year/:month/:day/:categories/:title/
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
