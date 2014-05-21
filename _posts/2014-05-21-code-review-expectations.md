@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Code Review Expectation"
+title:  "Code Review Expectations"
 date:   2014-05-21 17:22:00
 categories: Work
 ---
