@@ -4,8 +4,6 @@ title:  "I just did it"
 date:   2014-06-30 14:51:00
 categories: Work
 ---
-# I just did it!
-
 **Usually I'm very keen to prepare myself for a project**
 I create a project document in my Google Docs with a well thought name, a few lines of introduction and the description about the technical stack like language(s), hosting and package I plan to use. Then I create a GitHub repository and start coding, at least that what I aim for; but instead I get distracted by all the details I was thinking of in the first place and read/try them out instead doing what I should focus on.
 
