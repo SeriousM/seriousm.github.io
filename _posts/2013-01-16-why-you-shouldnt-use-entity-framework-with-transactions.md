@@ -91,6 +91,8 @@ database.SaveChanges();
 
 **_Rule of Thumb: Save only once per task and don’t use transactions._**
 
+Edit: One thread should have access to one instance of DbContext which works best in web applications where every request acts as one thread. In windows applications every command or task should have one DbContext which is not shared. If you share the DbContext between threads you might run into issues like having reads sneaked into a foreign transaction.
+
    [1]: https://en.wikipedia.org/wiki/Entity_framework
    [2]: https://en.wikipedia.org/wiki/ACID
    [3]: https://en.wikipedia.org/wiki/Database_transaction
