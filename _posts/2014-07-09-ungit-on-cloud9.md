@@ -22,6 +22,7 @@ categories: Work
 5. Enter the path to your repository, starting with `/home/ubuntu/`
 6. Alternatively you can open the direct link `https://<vm-name>-c9-<username>.c9.io/#/repository?path=/home/ubuntu/<path>`
 7. Have fun with [ungit][ungit]!
+ - ungit have [a lot of options][ungit options] that might be handy, i.e. [gerrit][gerrit] support
 
 ## Known Issues
 [Cloud9][cloud9] only have a single port that is exposed to the internet which is internally set to 8080. For some reason it's not possible to expose multiple services at once which means you have to stop any other web application before you can launch ungit.
@@ -29,3 +30,5 @@ categories: Work
   [ungit video]: http://youtu.be/hkBVAi3oKvo
   [ungit]: https://github.com/FredrikNoren/ungit
   [cloud9]: https://c9.io/
+  [ungit options]: https://github.com/FredrikNoren/ungit/blob/master/source/config.js
+  [gerrit]: https://code.google.com/p/gerrit/
