@@ -13,7 +13,7 @@ I just opened the terminal and my text editor of my choice and started coding. Y
 
 Now, after I finished my [MVP][mvp] I committed my source code and can start thinking in features I like to add. I guess only you have at least "something" ([MVP][mvp]) you can start enhancing it instead doing premature optimizations to "nothing".
 
-Here is my [MVP][mvp] called [yournal][yournal], a personal journal without all the unnecessary wrinkles others have.
+Here is my [MVP][mvp] called [yournal][yournal] ([GitHub][yournal-github]), a personal journal without all the unnecessary wrinkles others have.
 I still have some plans to enhance it a bit but in the end that's what it should be.
 
 **Meteor**
@@ -24,4 +24,5 @@ Don't prematurely optimize your ideas, build at least a [MVP][mvp] to see if it 
 
   [mvp]: http://en.wikipedia.org/wiki/Minimum_viable_product
   [meteor]: https://www.meteor.com/
-  [yournal]: http://yournal.meteor.com/
+  [yournal]: https://yournal.meteor.com/
+  [yournal-github]: https://github.com/SeriousM/yournal
