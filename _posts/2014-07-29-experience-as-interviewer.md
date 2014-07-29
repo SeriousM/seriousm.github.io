@@ -9,10 +9,12 @@ Recently I did a lot of interviews for my developer team and I thought is summar
 ### 1. Calm down, we are all just humans
 
 **Interviewer**
+
   - The candidate will be nervous because it's a not-so-common situation for him/her. Just because you interviewed a lot people already you can't expect that everyone is doing well in that situation.
   - Candidates are usually have doubt about their person and their skills. Try to talk with them or even make some jokes before the interview starts and break the ice; that way you can satisfy their need to get accepted as a person and focus on the skills during the interview.
 
 **Candidate**
+
   - Don't stress yourself to much. You're gonna talk with people that are just like you and me.
   - If you're lucky you will talk with your future colleagues and they want to see someone who they would love to work with.
   - Just be yourself and don't freak out. Keep your hands calm and your voice steady and smooth.
