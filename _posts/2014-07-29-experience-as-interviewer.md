@@ -4,7 +4,7 @@ title:  "My experience as an interviewer"
 date:   2014-07-29 11:54:00
 categories: Work
 ---
-Recently I did a lot of interviews for my developer team and I thought a summary might helps interviewers and/or candidates.
+Recently I did a lot of interviews for my developer team and I thought a summary might helps interviewers and/or candidates alike.
 
 ### 1. Calm down, we are all just humans
 
