@@ -173,4 +173,4 @@ Notes:
 
 Sources:
 [http://blog.masonchu.com/2012/03/wcf-webapi-dictionary-json.html](http://blog.masonchu.com/2012/03/wcf-webapi-dictionary-json.html)
-[http://stackoverflow.com](http://stackoverflow.com)
+[https://stackoverflow.com](https://stackoverflow.com)
