@@ -67,4 +67,4 @@ The new version arrives and I have some highlights to point out:
 
    [1]: /assets/WPFLocalizeExtensionLogo.png (WPFLocalizeExtensionLogo)
    [2]: http://www.ukma.de/
-   [3]: http://http://www.youtube.com/watch?v=a4s3qAzerMI
+   [3]: http://www.youtube.com/watch?v=a4s3qAzerMI
