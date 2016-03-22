@@ -12,7 +12,7 @@ pygments: true
 permalink: /:year/:month/:day/:categories/:title/
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : Bernhard Millauer
-production_url : http://root-project.org
+production_url : https://root-project.org
 description: "Througths, flamewars, utilities, tutorials, codes, projects and other things by Bernhard Millauer."
 disqus_shortname: root-project
 analytics: UA-37332361-1
