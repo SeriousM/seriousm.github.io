@@ -4,7 +4,11 @@
   <link rel="canonical" href="{{ site.production_url }}{{ page.url }}">
   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
   <title>{{ page.title }} | root-project.org</title>
-
+  <script type="text/javascript">
+    var host = "{{ site.production_host }}";
+    if ((host == window.location.host) && (window.location.protocol != "https:"))
+        window.location.protocol = "https";
+  </script>
   <meta name="author" content="{{ site.author.name }}" />
   <meta name="description" content="{{ site.description }}" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
