@@ -8,7 +8,7 @@ redcarpet:
     - fenced_code_blocks
 gems:
   - jekyll-sitemap
-pygments: true
+highlighter: rouge
 permalink: /:year/:month/:day/:categories/:title/
 exclude: [ Gemfile, Gemfile.lock, gems, _assets, bower_components ]
 title : Bernhard Millauer
